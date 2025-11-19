@@ -1,10 +1,3 @@
-# Emotion-Classification-for-Chatbots-Using-Classical-Machine-Learning
-
-Here is a **clean, professional, GitHub-ready `README.md`** based on your full report and notebook.
-If you want a more aesthetic version (with emojis, badges, or images), I can generate that too.
-
----
-
 # 📘 **Emotion Classification for Chatbot Systems**
 
 *A Classical Machine Learning Approach Using Naïve Bayes & Linear SVM*
